@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: junxnone/update-readme@main
+      - uses: junxnone/update-readme@v2
         with:
           push_branch: "main"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
