@@ -150,7 +150,7 @@
             const markdownUrl = new URL(prefix + vm.route.file, document.location);
             const createIssueUrl="https://github.com/" + window.$docsify.repo + "/issues/new/choose";
             
-            return `[🆕 NewPage](${createIssueUrl}) | [🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n --|--\n` + mdstr;
+            return `[🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n` + mdstr;
           }
         );
       }
