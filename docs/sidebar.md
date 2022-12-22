@@ -1,7 +1,0 @@
-Features  
-Guide  
-TODO  
-About
-
----
-
