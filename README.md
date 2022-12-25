@@ -139,3 +139,6 @@
 - [tensorflow_2_x_test.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=tensorflow/tensorflow_2_x_test.ipynb)
 - [tf_extract_image_patches.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=tensorflow/tf_extract_image_patches.ipynb)
 - [tf_lr_schedules.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=tensorflow/tf_lr_schedules.ipynb)
+
+## yaml
+- [yaml.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=yaml/yaml.ipynb)
