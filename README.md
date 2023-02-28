@@ -110,6 +110,7 @@
 - [scikit_image_getting_started.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-image/scikit_image_getting_started.ipynb)
 
 ### scikit-learn
+- [ConfusionMatrix.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/ConfusionMatrix.ipynb)
 - [Pairwise_metrics.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/Pairwise_metrics.ipynb)
 - [confusion_matrix.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/confusion_matrix.ipynb)
 - [datasets.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=scikit-learn/datasets.ipynb)
