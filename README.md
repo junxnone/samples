@@ -64,6 +64,7 @@
 
 ### numpy
 - [numpy_basic.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_basic.ipynb)
+- [numpy_compare_float.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_compare_float.ipynb)
 - [numpy_dot_product.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_dot_product.ipynb)
 
 ### opencv
