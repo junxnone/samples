@@ -88,12 +88,12 @@
 - [pandas_Series.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pandas/pandas_Series.ipynb)
 
 ### python
+- [00_python_strings.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/00_python_strings.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
 - [python_files.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_files.ipynb)
 - [python_float.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_float.ipynb)
-- [python_strings.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_strings.ipynb)
 - [python_tqdm.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_tqdm.ipynb)
 - [random.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/random.ipynb)
 
