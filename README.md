@@ -96,6 +96,7 @@
 - [04_python_dictionaries.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/04_python_dictionaries.ipynb)
 - [05_python_tuples.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/05_python_tuples.ipynb)
 - [06_python_sets_booleans.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/06_python_sets_booleans.ipynb)
+- [07_python_for_loops.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/07_python_for_loops.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
