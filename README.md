@@ -93,6 +93,7 @@
 - [01_python_numbers.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/01_python_numbers.ipynb)
 - [02_python_conditionals.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/02_python_conditionals.ipynb)
 - [03_python_lists.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/03_python_lists.ipynb)
+- [04_python_dictionaries.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/04_python_dictionaries.ipynb)
 - [argparse.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/argparse.ipynb)
 - [python3_os.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python3_os.ipynb)
 - [python_datetime.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=python/python_datetime.ipynb)
