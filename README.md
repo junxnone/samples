@@ -61,6 +61,7 @@
 
 ### nn
 - [Activation_Function.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=nn/Activation_Function.ipynb)
+- [thop.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=nn/thop.ipynb)
 
 ### numpy
 - [numpy_basic.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=numpy/numpy_basic.ipynb)
