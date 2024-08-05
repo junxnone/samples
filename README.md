@@ -110,6 +110,7 @@
 - [pytorch_LeNet_mnist.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_LeNet_mnist.ipynb)
 - [pytorch_dataloader.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_dataloader.ipynb)
 - [pytorch_datasets.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_datasets.ipynb)
+- [pytorch_models_save.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/pytorch_models_save.ipynb)
 - [tensor_tutorial.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/tensor_tutorial.ipynb)
 - [tensor_usecase.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/tensor_usecase.ipynb)
 - [torch_optim_lr_scheduler.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=pytorch/torch_optim_lr_scheduler.ipynb)
