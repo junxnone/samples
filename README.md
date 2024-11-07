@@ -23,6 +23,9 @@
 ### fun
 - [6174_analysis.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=fun/6174_analysis.ipynb)
 
+### hf
+- [hf_datasets.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=hf/hf_datasets.ipynb)
+
 ### imageio
 - [imageio_basic.ipynb](https://junxnone.github.io/samples/nbv.html?notebook_name=imageio/imageio_basic.ipynb)
 
